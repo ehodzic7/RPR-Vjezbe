@@ -1,0 +1,3 @@
+interface MozePredstaviti {
+    String predstavi();
+}
